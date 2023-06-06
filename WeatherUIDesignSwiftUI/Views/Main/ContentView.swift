@@ -2,14 +2,14 @@
 //  ContentView.swift
 //  WeatherUIDesignSwiftUI
 //
-//  Created by Muhammet Vural on 5.06.2023.
+//  Created by Muhammet Vural on 6.06.2023.
 //
 
 import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        HomeView()
+        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
     }
 }
 
